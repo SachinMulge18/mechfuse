@@ -41,6 +41,7 @@ const LoginPage = () => {
           autoFocus
           value={email}
         />
+        
         <label>Password:</label>
         <input
           className="w-100 p-1"
